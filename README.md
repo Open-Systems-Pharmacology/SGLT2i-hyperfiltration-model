@@ -30,12 +30,12 @@ The model code is distributed under the [GPLv2 License](https://github.com/Open-
 ## References
 [1] [Balazki P, Schaller S, Eissing T, Lehr T. A Quantitative Systems Pharmacology kidney model of diabetes associated renal hyperfiltration and the effects of SGLT inhibitors. CPT: Pharmacometrics & Systems Pharmacology (2018) XXX EDIT 2:e65; doi:10.1038/psp.2013.40.](http://onlinelibrary.wiley.com/doi/10.1038/psp.2013.40/abstract)
 
-[2] [Obermeier M. T. et al. In vitro characterization and pharmacokinetics of dapagliflozin (BMS-512148), a potent sodium-glucose cotransporter type II inhibitor, in animals and humans. Drug Metab. Dispos. 38, 405–414 (2010)]
+[2] Obermeier M. T. et al. In vitro characterization and pharmacokinetics of dapagliflozin (BMS-512148), a potent sodium-glucose cotransporter type II inhibitor, in animals and humans. Drug Metab. Dispos. 38, 405–414 (2010)
 
-[3][Boulton D. W. et al. Simultaneous oral therapeutic and intravenous 14 C-microdoses to determine the absolute oral bioavailability of saxagliptin and dapagliflozin. Br. J. Clin. Pharmacol. 75, 763–768 (2013).]
+[3] Boulton D. W. et al. Simultaneous oral therapeutic and intravenous 14 C-microdoses to determine the absolute oral bioavailability of saxagliptin and dapagliflozin. Br. J. Clin. Pharmacol. 75, 763–768 (2013).
 
-[4][Komoroski B. et al. Dapagliflozin, a novel SGLT2 inhibitor, induces dose-dependent glucosuria in healthy subjects. Clin. Pharmacol. Ther. 85, 520–526 (2009)]
+[4] Komoroski B. et al. Dapagliflozin, a novel SGLT2 inhibitor, induces dose-dependent glucosuria in healthy subjects. Clin. Pharmacol. Ther. 85, 520–526 (2009)
 
-[5][Kasichayanula S. et al. Influence of hepatic impairment on the pharmacokinetics and safety profile of dapagliflozin: An open-label, parallel-group, single-dose study. Clin. Ther. 33, 1798–1808 (2011).]
+[5] Kasichayanula S. et al. Influence of hepatic impairment on the pharmacokinetics and safety profile of dapagliflozin: An open-label, parallel-group, single-dose study. Clin. Ther. 33, 1798–1808 (2011).
 
-[6][Defronzo, R. A. Characterization of renal glucose reabsorption in response to dapagliflozin in healthy subjects and subjects with type 2 diabetes. Diabetes Care 36, 3169–3176 (2013).]
+[6] Defronzo, R. A. Characterization of renal glucose reabsorption in response to dapagliflozin in healthy subjects and subjects with type 2 diabetes. Diabetes Care 36, 3169–3176 (2013).
