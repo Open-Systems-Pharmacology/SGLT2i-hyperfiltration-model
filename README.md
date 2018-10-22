@@ -28,7 +28,7 @@ Everyone interacting in the Open Systems Pharmacology community (codebases, issu
 The model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
 
 ## References
-[1] [Balazki P, Schaller S, Eissing T, Lehr T. A Quantitative Systems Pharmacology kidney model of diabetes associated renal hyperfiltration and the effects of SGLT inhibitors. CPT: Pharmacometrics & Systems Pharmacology (2018) XXX EDIT 2:e65; doi:10.1038/psp.2013.40.](http://onlinelibrary.wiley.com/doi/10.1038/psp.2013.40/abstract)
+[1] [Balazki P, Schaller S, Eissing T, Lehr T. A Quantitative Systems Pharmacology kidney model of diabetes associated renal hyperfiltration and the effects of SGLT inhibitors. CPT: Pharmacometrics & Systems Pharmacology (2018) XXX EDIT 2:e65; doi:10.1038/psp.2013.40.](https://ascpt.onlinelibrary.wiley.com/doi/abs/10.1002/psp4.12359)
 
 [2] Obermeier M. T. et al. In vitro characterization and pharmacokinetics of dapagliflozin (BMS-512148), a potent sodium-glucose cotransporter type II inhibitor, in animals and humans. Drug Metab. Dispos. 38, 405–414 (2010)
 
