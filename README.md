@@ -1,7 +1,7 @@
 # SGLT2i-hyperfiltratiton-model
 A Quantitative Systems Pharmacology kidney model of diabetes associated renal hyperfiltration and the effects of SGLT inhibitors.
 
-![gim](https://github.com/PavelBal/SGLT2i-hyperfiltration-model/blob/master/Figure_1_color.png)
+![gim](Figure_1_color.png)
 _Figure taken from [1], copyright by CPT:PSP._
 
 Within this repository, we distribute a mechanistic model of renal hyperfiltration coupled with physiologically-based pharmacokinetics/pharmacodynamics (PBPK/PD) of sodium-glucose cotransporter 2 inhibitor (SGLT2i) dapagliflozin and integrated into the glucose-insulin-glucagon model (GIM) [[1](#references)]. The GIM (Panel A of the Figure), as available at [the repository](https://github.com/Open-Systems-Pharmacology/Glucose-Insulin-Model), has been extended by a detailed kidney reprersentation (Panel B of the Figure). A PBPK/PD model of dapagliflozin servers as a representative for the class of SGLT2i medication.
